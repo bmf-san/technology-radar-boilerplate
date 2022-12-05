@@ -15,7 +15,7 @@ Type `http://localhost:8080/files/radar.json`.
 
 ![form](https://user-images.githubusercontent.com/13291041/205632529-e528abd5-9013-458e-a540-6fc1251867e9.png)
 
-`Build My Radar`を押下。
+Press down `Build My Radar`.
 
 ## Edit a radar
 ![radar](https://user-images.githubusercontent.com/13291041/205632536-d39195f1-2570-4645-bfb4-869bc7f77454.png)
